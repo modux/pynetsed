@@ -12,6 +12,12 @@ Uses Scapy and iptables with nfqueue
 
 Tested and working on Linux Kali and Ubuntu
 
+<h3>Requires</h3>
+
+ - Scapy
+ - iptables
+ - python-nfqueue
+
 apt-get install scapy python-nfqueue
 
 <h2>Usage</h2>
