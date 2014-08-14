@@ -54,3 +54,10 @@ optional arguments:
   -t, --pass-through    When debugging performance, test the connection can be
                         passed through within modification
 
+```
+
+<h2>To Do</h2>
+
+ - Improve speed, move to Python dpkt instead of Scapy
+ - Finish UDP processing
+ - Finish ICMP processing
